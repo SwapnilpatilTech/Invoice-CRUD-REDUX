@@ -2,6 +2,8 @@
 # React + Redux Toolkit Invoice Generator
 
 A simple and clean invoice generator built using **React, Redux Toolkit, and Tailwind CSS**. This project demonstrates basic CRUD operations (Create, Read, Update, Delete) for managing invoice items.
+Output
+<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/c10bcf42071b063af2a28d06c5ab0b13a4dfaaa6/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif"/>
 
 ## Features
 - Add, edit, and delete invoice items
