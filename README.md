@@ -3,6 +3,7 @@
 
 A simple and clean invoice generator built using **React, Redux Toolkit, and Tailwind CSS**. This project demonstrates basic CRUD operations (Create, Read, Update, Delete) for managing invoice items.
 Output
+<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/d6f8d58a872a4cb0d16457ba098471f64ebf4459/Screenshot%202025-08-22%20150140.png" width="100%" />
 
 ::<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/b4d6f2df4fb0f69da27545d4affd5bfe405e35b6/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" width="100%" />
 
