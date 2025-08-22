@@ -4,7 +4,7 @@ A simple and clean invoice generator built using **React, Redux Toolkit, and Tai
 
 
 OUTPUT 
-<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/44bfad65d88e1cacf70330619cc222687d09e6e7/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif"/>
+<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/44bfad65d88e1cacf70330619cc222687d09e6e7/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" width="100%" />
 ::<img src="https://github.com/SwapnilpatilTech/Invoice-CRUD-REDUX/blob/44bfad65d88e1cacf70330619cc222687d09e6e7/Screenshot%202025-08-22%20150140.png" width="100%" />
 ## Features
 - Add, edit, and delete invoice items
@@ -30,6 +30,7 @@ invoice-generator/
 ├─ public/
 └─ package.json
 ```
+
 
 
 
